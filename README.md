@@ -6,7 +6,7 @@ Notes on the gas-phase metallicity, ionization parameter and reshfit subdivision
 
 # Acknowledgements
 
-These notebooks are created for the working groups of the MOONS consortium. This is part of my Ph.D. project at LAM (https://www.lam.fr/?lang=en) funded by AMIDEX (https://www.univ-amu.fr/en/public/amidex-team).
+These notebooks are created for the working groups of the MOONS consortium. This is part of my Ph.D. thesis (http://www.theses.fr/s210961) at LAM (https://www.lam.fr/?lang=en) funded by AMIDEX (https://www.univ-amu.fr/en/public/amidex-team).
 
 # License
 
